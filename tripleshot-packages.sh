@@ -28,6 +28,7 @@ DEBIAN_FRONTEND=noninteractive \
     ca-certificates \
     nginx \
     nodejs \
+    libpng16-dev \
     mysql-client \
     nano
 
